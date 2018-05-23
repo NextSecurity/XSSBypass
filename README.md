@@ -1,0 +1,2 @@
+# XSSBypass
+XSS Bypass techniquies
